@@ -1,0 +1,4 @@
+# Dous algoritmos, a mesma ruta.
+LOAD square.json
+TSP Base BRUTE_FORCE
+TSP Base DYNAMIC
