@@ -1,7 +1,0 @@
-PROBLEM LOADED WITH 6 NODES
-TSP BRUTE_FORCE: ["ISS", "GPS-III-01", "Galileo-FOC-FM1", "James Webb", "Sentinel-2A", "Hubble", "ISS"] WITH COST 3058966
-TSP DYNAMIC: ["ISS", "GPS-III-01", "Galileo-FOC-FM1", "James Webb", "Sentinel-2A", "Hubble", "ISS"] WITH COST 3058966
-TSP DYNAMIC: ["James Webb", "Galileo-FOC-FM1", "GPS-III-01", "ISS", "Hubble", "Sentinel-2A", "James Webb"] WITH COST 3058966
-PROBLEM LOADED WITH 3 NODES
-TSP BRUTE_FORCE: ["James Webb", "Hubble", "ISS", "James Webb"] WITH COST 2998607
-TSP DYNAMIC: ["James Webb", "Hubble", "ISS", "James Webb"] WITH COST 2998607

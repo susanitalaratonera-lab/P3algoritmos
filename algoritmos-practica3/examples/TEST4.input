@@ -1,7 +1,0 @@
-LOAD coincident.json
-tsp Base brute_force
-TSP Base DYNAMIC
-TSP "A A" DYNAMIC
-LOAD square.json 2
-TSP A BRUTE_FORCE
-TSP A DYNAMIC

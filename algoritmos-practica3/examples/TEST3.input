@@ -1,7 +1,0 @@
-LOAD ../data.json 6
-TSP ISS BRUTE_FORCE
-TSP ISS DYNAMIC
-TSP "James Webb" DYNAMIC
-LOAD ../data.json 3
-TSP "James Webb" BRUTE_FORCE
-TSP "James Webb" DYNAMIC
