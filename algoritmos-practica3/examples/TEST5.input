@@ -1,0 +1,3 @@
+LOAD ../data.json
+TSP ISS DYNAMIC
+TSP "James Webb" DYNAMIC
